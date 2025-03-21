@@ -22,8 +22,8 @@ This project presents a comprehensive Power BI dashboard for analyzing Blinkit's
 - **Outlet Size and Location Analysis**: Provides insights on sales performance by outlet size and location tier
 - **Outlet Type Comparison**: Compares different outlet types based on sales, number of items, average sales, ratings, and item visibility
 ## Insights and Conclusions
-1.Strong overall sales performance with over $1M in total sales
-2.Consumer preference for low-fat products, indicating health-conscious buying habits
-3.Fruits, vegetables, and snack foods are the top-selling categories
-4.Medium-sized outlets in Tier 3 locations show the highest profitability
-5.Supermarkets generate higher sales volumes, while grocery stores have better item visibility
+1. **Strong Sales Performance**: Achieved over **$1M** in total sales, demonstrating robust overall performance.  
+2. **Health-Conscious Consumers**: Consumer preference for low-fat products highlights a trend toward health-conscious buying habits.  
+3. **Top-Selling Categories**: **Fruits**, **vegetables**, and **snack foods** are the highest-performing categories.  
+4. **Profitable Outlets**: Medium-sized outlets in **Tier 3 locations** show the highest profitability.  
+5. **Sales vs. Visibility**: **Supermarkets** generate higher sales volumes, while **grocery stores** offer better item visibility.  
